@@ -1,6 +1,5 @@
 Name: Jialin Zhou
 Github: Jialinzhou23
-Team: 0
-Blue
+Fav Color: Light Blue
 Email: jialinzh@brandeis.edu
 Phone: (617)893-9562
